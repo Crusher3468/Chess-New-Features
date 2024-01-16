@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eelwood\\source\\repos\\CSChess\\ChessTests\\ChessTests.csproj": {}
+    "C:\\Users\\eelwood\\Documents\\GitHub\\Chess-Additions\\ChessTests\\ChessTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eelwood\\source\\repos\\CSChess\\ChessTests\\ChessTests.csproj": {
+    "C:\\Users\\eelwood\\Documents\\GitHub\\Chess-Additions\\ChessTests\\ChessTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eelwood\\source\\repos\\CSChess\\ChessTests\\ChessTests.csproj",
+        "projectUniqueName": "C:\\Users\\eelwood\\Documents\\GitHub\\Chess-Additions\\ChessTests\\ChessTests.csproj",
         "projectName": "ChessTests",
-        "projectPath": "C:\\Users\\eelwood\\source\\repos\\CSChess\\ChessTests\\ChessTests.csproj",
+        "projectPath": "C:\\Users\\eelwood\\Documents\\GitHub\\Chess-Additions\\ChessTests\\ChessTests.csproj",
         "packagesPath": "C:\\Users\\eelwood\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eelwood\\source\\repos\\CSChess\\ChessTests\\obj\\",
+        "outputPath": "C:\\Users\\eelwood\\Documents\\GitHub\\Chess-Additions\\ChessTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

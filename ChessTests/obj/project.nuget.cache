@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e9I+6TpbjumTt8GoWa7oE5DfBFHohpQf+e33q5DepzVSFom0Nsquy/rttYa5pfCLobYqFP7sIOsRnw9aVD5guA==",
+  "dgSpecHash": "ZuA2zHJRw39DqwPDW5HVgXctT46SN3fgbI94GNQmv5PbL4ZKx+qIJ95vW8/eWT5kbhrMpKDJsWUU4TPedbEc/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eelwood\\source\\repos\\CSChess\\ChessTests\\ChessTests.csproj",
+  "projectFilePath": "C:\\Users\\eelwood\\Documents\\GitHub\\Chess-Additions\\ChessTests\\ChessTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eelwood\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\eelwood\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
